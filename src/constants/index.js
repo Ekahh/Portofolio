@@ -40,32 +40,32 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Responsive Web Design Certification",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "Completed the Responsive Web Design Certification from freeCodeCamp. Learned HTML and CSS to build webpages. Projects included a cat photo app, a quiz site, a photo gallery using Flexbox, and a magazine layout using CSS Grid.",
+    technologies: ["HTML", "CSS"],
   },
   {
-    title: "Task Management App",
+    title: "PKM Registration Website",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A group project created as part of the final exam (UAS) for the Web Programming course. This website helps students register for the PKM (Program Kreativitas Mahasiswa), streamlining the submission and registration process.",
+    technologies: ["HTML", "CSS", "PHP"],
   },
   {
-    title: "Portfolio Website",
+    title: "Suitmedia Internship Test Project",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "Developed a website for Suitmedia's internship application process as per their given requirements. This project was a test to demonstrate web development skills using front-end technologies.",
+    technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
-    title: "Blogging Platform",
+    title: "Personal Portfolio Website",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "My first serious personal portfolio project, created as part of the Studi Independen Infinite Learning program. The website showcases my skills, projects, and contact information.",
+    technologies: ["HTML", "CSS", "JavaScript", "ReactJS", "Tailwind"],
   },
 ];
 
