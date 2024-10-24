@@ -3,9 +3,13 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a motivated fifth-semester student with a strong interest in web development. Currently, I am learning HTML, CSS, JavaScript, and React.js, and I am committed to deepening my understanding of both front-end and back-end development. My goal is to become a skilled full-stack developer, capable of building efficient and user-friendly web applications. I am eager to continue expanding my knowledge and contribute to innovative projects that enhance user experiences and drive technological advancement.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a passionate and versatile web development enthusiast, currently in my fifth semester studying Informatics. Throughout my studies, I have gained hands-on experience with programming languages such as Python, C, C++, Java, HTML, CSS, JavaScript, and PHP. Currently, I am participating in the Studi Independen program at Infinite Learning, focusing on Web Development and UI/UX Design.
+
+I have a strong interest in building websites that can be enjoyed and used by a broad audience. One project that I am particularly excited about is creating a personal website to store and organize recipes I have made and plan to make. This project will allow me to apply the skills I am developing, combining both my passion for web development and my love for cooking. I aim to create a user-friendly, visually appealing platform that makes it easy for others to save and share their favorite recipes.
+
+I thrive in collaborative environments and am committed to continuous learning, always eager to explore new technologies and solve complex problems to deliver high-quality solutions.`;
 
 export const EXPERIENCES = [
   {
